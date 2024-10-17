@@ -1,5 +1,7 @@
 # My userscripts
 ## RYM All releases chart from artist page
+Site: https://rateyourmusic.com/
+
 Add link to popular songs chart and link to all releases chart from this artist sorted by popularity (including live, archival, soundtracks and scores)
 
 ### Before:
