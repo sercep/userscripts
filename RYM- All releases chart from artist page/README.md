@@ -9,7 +9,6 @@
 | *make "Popular songs" clickable* | esoteric songs chart link for artist with low (<300) ratings instead of "Top songs" |
 
 ### Add "Charts" block under artist profile info
-link to all releases chart from this artist sorted by popularity (including live, archival, soundtracks and scores)
 
 | ![image](https://github.com/user-attachments/assets/873a913b-0809-473d-946d-9fb8859b3e52) |
 |------|
