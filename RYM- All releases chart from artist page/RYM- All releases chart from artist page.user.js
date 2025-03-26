@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         RYM: All releases chart from artist page
 // @namespace    https://github.com/sercep/userscripts
-// @version      1.2.0
+// @version      1.2.1
 // @description  Add links to all releases chart from this artist sorted by popularity on artist page
 // @author       sercep
 // @match        https://rateyourmusic.com/artist/*
