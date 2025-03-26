@@ -12,7 +12,9 @@
     'use strict';
     var url = document.URL;
     var artistlink = "https://rateyourmusic.com/artist/";
+    var credits = "/credits/"
     var artistlinkname = url.replace(artistlink, '');
+    artistlinkname = artistlinkname.replace(credits, '');
     var songratings = document.querySelector(".page_artist_tracks_track_stats_scores");
     var page_artist_section_song_guide = document.querySelector(".page_artist_section_song_guide");
     if (!page_artist_section_song_guide) {
