@@ -1,6 +1,6 @@
 ## Leterboxd: Hide 2024 and 2025 Movies
 
-| [Greasyfork]() | [Site: Leterboxd](https://letterboxd.com/films/) |
+| Greasyfork | [Site: Leterboxd](https://letterboxd.com/films/) |
 |------|-------------|
 
 ### Hides movies from 2024 and 2025 on Letterboxd's Browse Films page
