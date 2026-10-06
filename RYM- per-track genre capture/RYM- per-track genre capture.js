@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         RYM: per-track genre capture
-// @namespace    rym-genre-capture
-// @version      1.2
+// @namespace    https://github.com/sercep/userscripts
+// @version      1.2.1
 // @description  Captures RYM's per-track genre-voting data into a downloadable JSON with metadata.
+// @author       sercep
 // @match        https://rateyourmusic.com/rgenre/set*
 // @match        https://www.rateyourmusic.com/rgenre/set*
+// @license      MIT
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==

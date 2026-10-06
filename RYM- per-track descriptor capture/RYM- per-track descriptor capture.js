@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         RYM: per-track descriptor capture
-// @namespace    rym-descriptor-capture
-// @version      1.0
+// @namespace    https://github.com/sercep/userscripts
+// @version      1.0.1
 // @description  Captures RYM's per-track descriptor-voting data into a downloadable JSON with metadata.
+// @author       sercep
 // @match        https://rateyourmusic.com/rdescriptor/set*
 // @match        https://www.rateyourmusic.com/rdescriptor/set*
+// @license      MIT
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
